@@ -1,0 +1,8 @@
+{
+  "name": "profile-v3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryanirilli/profile-v3.git",
+  "author": "Ryan Irilli <ryanirilli@gmail.com>",
+  "license": "MIT"
+}
